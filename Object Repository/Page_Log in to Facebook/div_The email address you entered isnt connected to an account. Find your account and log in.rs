@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_The email address you entered isnt connected to an account. Find your account and log in</name>
+   <tag></tag>
+   <elementGuidId>fe75657b-cbd5-4637-8230-2880b6c4b77b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div._9ay7</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='email_container']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;The email address you entered isn't connected to an account. Find your account a&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de26889a-a36f-48d5-9195-4242d4deef47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_9ay7</value>
+      <webElementGuid>d1b83ed4-2008-429e-bed9-828a940d15da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The email address you entered isn't connected to an account. Find your account and log in.</value>
+      <webElementGuid>8127ac40-5276-40c0-9863-5abac730816d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;email_container&quot;)/div[@class=&quot;_9ay7&quot;]</value>
+      <webElementGuid>da682a29-e8e6-457e-8886-cf631b53c4fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='email_container']/div[2]</value>
+      <webElementGuid>b1cc8db7-2ae5-4586-bbbd-c2138353f774</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in to Facebook'])[2]/following::div[5]</value>
+      <webElementGuid>3058d7d6-c870-4c97-8e31-c594c4f20a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log in'])[1]/preceding::div[7]</value>
+      <webElementGuid>0fc9e673-3ff4-43d0-9bc1-28c298e1ebc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/div[2]</value>
+      <webElementGuid>4b21fce1-bdbb-4892-9496-7406dcd91247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;The email address you entered isn&quot; , &quot;'&quot; , &quot;t connected to an account. Find your account and log in.&quot;) or . = concat(&quot;The email address you entered isn&quot; , &quot;'&quot; , &quot;t connected to an account. Find your account and log in.&quot;))]</value>
+      <webElementGuid>5dea7953-c069-4048-b974-f5382dbcf9b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
